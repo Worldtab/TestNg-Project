@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55537" started-at="2022-04-24T22:01:02 CDT" finished-at="2022-04-24T22:01:58 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55537" started-at="2022-04-24T22:01:02 CDT" finished-at="2022-04-24T22:01:58 CDT">
+      <class name="ableToAddCategory.AddCategory">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:ableToAddCategory.AddCategory@7d70d1b1]" name="readConfig" is-config="true" duration-ms="6" started-at="2022-04-24T22:01:02 CDT" finished-at="2022-04-24T22:01:02 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:ableToAddCategory.AddCategory@7d70d1b1]" name="init" is-config="true" duration-ms="2382" started-at="2022-04-24T22:01:02 CDT" finished-at="2022-04-24T22:01:05 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="AbletoAddCategory()[pri:1, instance:ableToAddCategory.AddCategory@7d70d1b1]" name="AbletoAddCategory" duration-ms="8346" started-at="2022-04-24T22:01:05 CDT" finished-at="2022-04-24T22:01:13 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AbletoAddCategory -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ableToAddCategory.AddCategory@7d70d1b1]" name="tearDown" is-config="true" duration-ms="638" started-at="2022-04-24T22:01:13 CDT" finished-at="2022-04-24T22:01:14 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:ableToAddCategory.AddCategory@7d70d1b1]" name="init" is-config="true" duration-ms="1683" started-at="2022-04-24T22:01:14 CDT" finished-at="2022-04-24T22:01:15 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="NotAbleToAddDuplicate()[pri:2, instance:ableToAddCategory.AddCategory@7d70d1b1]" name="NotAbleToAddDuplicate" duration-ms="12500" started-at="2022-04-24T22:01:15 CDT" finished-at="2022-04-24T22:01:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NotAbleToAddDuplicate -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ableToAddCategory.AddCategory@7d70d1b1]" name="tearDown" is-config="true" duration-ms="630" started-at="2022-04-24T22:01:28 CDT" finished-at="2022-04-24T22:01:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:ableToAddCategory.AddCategory@7d70d1b1]" name="init" is-config="true" duration-ms="1727" started-at="2022-04-24T22:01:28 CDT" finished-at="2022-04-24T22:01:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="DueDateDropdown()[pri:3, instance:ableToAddCategory.AddCategory@7d70d1b1]" name="DueDateDropdown" duration-ms="26960" started-at="2022-04-24T22:01:30 CDT" finished-at="2022-04-24T22:01:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DueDateDropdown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ableToAddCategory.AddCategory@7d70d1b1]" name="tearDown" is-config="true" duration-ms="628" started-at="2022-04-24T22:01:57 CDT" finished-at="2022-04-24T22:01:58 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ableToAddCategory.AddCategory -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
